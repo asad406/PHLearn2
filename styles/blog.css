@@ -1,0 +1,15 @@
+p{
+    color: rgb(112, 25, 25);
+}
+
+.header_a{
+    height: 200px;
+    background-image: url('../images/devloper1.jpg');
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-color: brown;
+
+    /* background-position: top right; */
+}
